@@ -1,4 +1,4 @@
-# CSE360_Computer-Interfacing
+# CSE360_Computer-Interfacing(project)
 **_Arduino Obstacle Avoidance Line Follower Robot Project_**
 **Component List**
 1) Arduino Nano 
