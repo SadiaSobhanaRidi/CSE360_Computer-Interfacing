@@ -1,7 +1,7 @@
 # CSE360_Computer-Interfacing(project)
 **_Arduino Obstacle Avoidance Line Follower Robot Project_**
 **Component List**
-1) Arduino Nano 
+1) Arduino UNO 
 2) L298N Motor Driver
 3) TT Gear Motor and Wheels Full Set
 4) Rubber Wheels(4x)
